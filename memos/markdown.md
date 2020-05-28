@@ -49,7 +49,7 @@
 
 * Blockquotes
 
-  > `As Kanye West said:`
+  > As Kanye West said:
   >
   > `> We're living the future so`
   >
