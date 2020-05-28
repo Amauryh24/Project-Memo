@@ -17,23 +17,25 @@
   > `_you **can** combine them_`
 
 - Lists
-  > ``
+  <pre><code>
 
-* Item 1
-* Item 2
+* First item
+* Second item
+* Third item
+  - Indented item
+  - Indented item
+* Fourth item
+  </code></pre>
 
-  - Item 2a
-  - Item 2b``
+  <pre><code>
 
-    > ``
-
-1. Item 1
-1. Item 2
-1. Item 3
-
-   1. Item 3a
-   1. Item 3b
-      ``
+1. First item
+2. Second item
+3. Third item
+   1. Indented item
+   2. Indented item
+4. Fourth item
+   </code></pre>
 
 - Images
   > `![GitHub Logo](/images/logo.png)`
