@@ -55,6 +55,6 @@
   > `> the present is our past.`
 
 * Inline code
-  > `I think you should use an`
+  > I think you should use an
   >
-  > `\` <code>test</code>`element here instead.`
+  > \` `<addr>` \` element here instead.
