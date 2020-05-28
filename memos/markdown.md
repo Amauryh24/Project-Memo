@@ -57,4 +57,4 @@
 * Inline code
   > `I think you should use an`
   >
-  > `\`<addr>`element here instead.`
+  > `\` <code>test</code>`element here instead.`
