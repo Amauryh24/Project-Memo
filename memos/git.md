@@ -1,20 +1,17 @@
 # Memo Git
 
-Setup & Init
+- Setup & Init
 
 > git init
-
 > git clone [url]
 
 Stage & Snapshot
 
 > git add [filename]
-
 > git add \* (all file)
-
 > git commit -m [descriptive message]
 
-Share & Update
+- Share & Update
 
-git push [alias][branch]
-git pull
+> git push [alias][branch]
+> git pull
